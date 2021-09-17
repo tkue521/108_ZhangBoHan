@@ -61,4 +61,4 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 - ![Image text](https://github.com/bohan66/GRAGAN/blob/e22d9c56099e3d9266b2cac25e74077078795676/final%20image1.jpg)
 ![Image text](https://github.com/bohan66/GRAGAN/blob/master/final%20image2.jpg)
 
-- 嘻嘻J
+- 嘻嘻Johnny Yeng
